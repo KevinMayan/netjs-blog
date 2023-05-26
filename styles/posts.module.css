@@ -1,0 +1,65 @@
+.backtolabelhome{
+
+    text-align: center;
+
+    position: relative;
+
+    top: 450px;
+
+    right: 50px;
+
+
+}
+
+.backtolabelhomecolor{
+    
+    color:cyan;
+
+    text-decoration: none;
+
+}
+
+.postimage{
+
+    text-align: center;
+
+    position: relative;
+
+    top: 100px;
+
+    right: 50px;
+
+
+}
+
+.authorlabel{
+
+    text-align: center;
+
+    color:dimgray;
+
+    position: relative;
+
+    top: 20px;
+
+    right: 120px;
+
+
+}
+
+.posttext{
+
+    text-align: center;
+
+    color:white;
+
+    position: relative;
+
+    top: 200px;
+
+    right: 30px;
+
+
+
+
+}
